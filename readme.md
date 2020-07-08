@@ -1,28 +1,20 @@
-# This is a large heading
+# Dwain Perkins
+### Geography
 
-## This is a smaller heading
+I live in the city of San Diego, in the state of California, in the United States of America.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Movies
 
-- This is
-- an unordered
-- list
+Three of my favorite movies are:
 
-1. This is
-2. an ordered
-3. list
+- *Avengers Endgame*
+- *The Family Man*
+- *Along Came Polly*
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+Three of my favorite restaurants:
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Homestyle Hawaiian in Chula Vista
+2. Barbeque House in Point Loma
+3. Flemings in La Jolla 
