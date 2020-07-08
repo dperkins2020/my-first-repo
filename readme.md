@@ -16,5 +16,5 @@ Three of my favorite movies are:
 Three of my favorite restaurants:
 
 1. Homestyle Hawaiian in Chula Vista
-2. Barbeque House in Pont Loma
+2. Barbeque House in Point Loma
 3. Flemings in La Jolla 
